@@ -1,8 +1,8 @@
 # Jbridge2_note
 京都文化日本語學校 - 初級2B  
 
-*[每課文法](/每課文法/README.md)
-*[文法整理](/文法整理/README.md)
+* [每課文法](/每課文法/README.md)
+* [文法整理](/文法整理/README.md)
 
 如果有發現錯誤處可以從上方 Issues 回報。
 
